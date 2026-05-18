@@ -55,12 +55,14 @@ export function SiteHeader() {
             aria-label="Wankin Properties Limited home"
             className="flex items-center gap-2 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-wankin-blue focus-visible:ring-offset-2 rounded-lg"
           >
-            <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-wankin-blue">
-              <span className="font-display text-lg font-bold text-white leading-none">W</span>
-            </div>
-            <span className="hidden font-display text-lg font-bold text-wankin-ink sm:block">
-              Wankin<span className="text-wankin-blue"> Properties</span>
-            </span>
+          <Image
+            src="/logowankin.png"
+            alt="Wankin Properties Limited"
+            width={120}
+            height={40}
+            className="h-10 w-auto object-contain"
+            priority
+          />
           </Link>
 
           <nav

@@ -1,7 +1,7 @@
 import type { MetadataRoute } from 'next';
 import { getAllSlugs } from '@/lib/listings';
 
-const BASE_URL = 'https://wankinproperties.co.ke';
+const BASE_URL = 'https://wankinproperties.com';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const staticPages = [

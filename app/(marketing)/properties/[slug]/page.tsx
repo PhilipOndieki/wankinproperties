@@ -70,7 +70,7 @@ export default function ListingPage({ params }: PageProps) {
     '@type': 'RealEstateListing',
     name: listing.title,
     description: listing.shortDescription,
-    url: `https://wankinproperties.co.ke/properties/${listing.slug}`,
+    url: `https://wankinproperties.com/properties/${listing.slug}`,
     offers: {
       '@type': 'Offer',
       price: listing.price,

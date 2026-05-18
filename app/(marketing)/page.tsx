@@ -18,7 +18,7 @@ const agentJsonLd = {
   '@type': 'RealEstateAgent',
   name: SITE_NAME,
   description: SITE_DESCRIPTION,
-  url: 'https://wankinproperties.co.ke',
+  url: 'https://wankinproperties.com',
   telephone: CONTACT_PHONE_DISPLAY,
   address: {
     '@type': 'PostalAddress',
@@ -92,7 +92,6 @@ export default function HomePage() {
 
       <ListingTabs />
       <WhyWankin />
-      <FeaturedLocations />
       <Testimonials />
       <CtaBanner />
     </>

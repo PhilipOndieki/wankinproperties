@@ -1,6 +1,6 @@
 export const CONTACT_PHONE = '+254758300900';
 export const CONTACT_PHONE_DISPLAY = '+254 758 300 900';
-export const CONTACT_EMAIL = 'hello@wankinproperties.co.ke';
+export const CONTACT_EMAIL = 'info@wankinproperties.com';
 export const OFFICE_ADDRESS = 'Unaitas Building, 1st Floor, Room FF6, Juja, Kiambu County';
 export const OFFICE_HOURS = 'Monday to Saturday, 8:00 AM to 6:00 PM';
 

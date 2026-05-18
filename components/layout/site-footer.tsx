@@ -145,7 +145,6 @@ export function SiteFooter() {
           <p className="text-xs text-blue-400">
             &copy; {currentYear} Wankin Properties Limited. All rights reserved.
           </p>
-          <p className="text-xs text-blue-400">Built in Nairobi</p>
           <div className="flex items-center gap-4" aria-label="Social media links">
             <a
               href={SOCIAL_LINKS.facebook}

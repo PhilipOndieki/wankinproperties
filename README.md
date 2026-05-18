@@ -85,7 +85,7 @@ cp .env.example .env.local
 2. Connect the repository in [vercel.com/new](https://vercel.com/new).
 3. Add environment variables in Project Settings.
 4. Vercel detects Next.js automatically. No extra config needed.
-5. Add the custom domain `wankinproperties.co.ke` in Domain settings.
+5. Add the custom domain `wankinproperties.com` in Domain settings.
 
 ### Image domains
 

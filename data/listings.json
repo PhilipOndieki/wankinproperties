@@ -21,7 +21,7 @@
     ],
     "images": [
       {
-        "src": "https://placehold.co/800x500/1E40AF/FAF8F3?text=Juja+Farm+Mwireri",
+        "src": "/jujafarmmwireri.jpg",
         "alt": "Aerial view of Juja Farm Mwireri plots with green surroundings"
       },
       {
@@ -62,7 +62,7 @@
     ],
     "images": [
       {
-        "src": "https://placehold.co/800x500/1E40AF/FAF8F3?text=Juja+Farm+Athi",
+        "src": "/jujafarm.jpg",
         "alt": "Open plots at Juja Farm Athi with flat terrain and clear sky"
       },
       {
@@ -103,7 +103,7 @@
     ],
     "images": [
       {
-        "src": "https://placehold.co/800x500/16A34A/FAF8F3?text=Mwalimu+Farm",
+        "src": "/mwalimufarm.jpg",
         "alt": "Mwalimu Farm residential plots with paved internal roads"
       },
       {
@@ -144,7 +144,7 @@
     ],
     "images": [
       {
-        "src": "https://placehold.co/800x500/16A34A/0F1A4F?text=Makuyu+Mananja",
+        "src": "/makuyumananja.jpg",
         "alt": "Green fertile land at Makuyu Mananja with expansive views"
       },
       {
@@ -185,7 +185,7 @@
     ],
     "images": [
       {
-        "src": "https://placehold.co/800x500/0F1A4F/FAF8F3?text=Gongoni+Malindi",
+        "src": "/gongoni.jpg",
         "alt": "Coastal plots at Gongoni Malindi with ocean visible in background"
       },
       {
@@ -203,46 +203,5 @@
     },
     "isFeatured": true,
     "createdAt": "2024-11-20T08:00:00Z"
-  },
-  {
-    "slug": "ruai-corridor",
-    "title": "Ruai Corridor",
-    "location": "Ruai, Nairobi County",
-    "category": "juja-farm",
-    "plotSize": "50 x 100",
-    "price": 1050000,
-    "status": "available",
-    "shortDescription": "Strategic plots in the Ruai corridor with road frontage and title deeds, minutes from Nairobi CBD.",
-    "longDescription": "The Ruai corridor is one of Nairobi's last affordable frontiers. These plots sit along the Eastern Bypass access roads, giving residents fast connectivity to the CBD, Kasarani, and JKIA. The area is transitioning from sparse residential to a full urban zone.\n\nPlots come with survey documents and ready title deeds. Electricity and water are both connected along the road. Matatu routes pass the access road every 15 minutes.\n\nWith the Eastern Bypass upgrades underway, prices here will not stay at this level. This is the time to buy.",
-    "features": [
-      "Ready title deeds",
-      "Eastern Bypass road access",
-      "Electricity and water connected",
-      "Matatu routes at access road",
-      "Near Nairobi CBD and JKIA",
-      "Surveyed and beaconed",
-      "Free site visits",
-      "High appreciation potential"
-    ],
-    "images": [
-      {
-        "src": "https://placehold.co/800x500/1E2A78/FAF8F3?text=Ruai+Corridor",
-        "alt": "Ruai Corridor plots with Eastern Bypass visible in the distance"
-      },
-      {
-        "src": "https://placehold.co/800x500/1E40AF/FAF8F3?text=Road+Access",
-        "alt": "Road frontage plots at the Ruai Corridor development"
-      },
-      {
-        "src": "https://placehold.co/800x500/374151/FAF8F3?text=Infrastructure",
-        "alt": "Power lines and water pipes installed along the Ruai Corridor access road"
-      }
-    ],
-    "coordinates": {
-      "lat": -1.2800,
-      "lng": 36.9600
-    },
-    "isFeatured": false,
-    "createdAt": "2024-12-01T08:00:00Z"
   }
 ]

@@ -17,7 +17,7 @@ const plusJakarta = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://wankinproperties.co.ke'),
+  metadataBase: new URL('https://wankinproperties.com'),
   title: {
     default: SITE_NAME,
     template: `%s | ${SITE_NAME}`,
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_KE',
-    url: 'https://wankinproperties.co.ke',
+    url: 'https://wankinproperties.com',
     siteName: SITE_NAME,
     title: SITE_NAME,
     description: SITE_DESCRIPTION,

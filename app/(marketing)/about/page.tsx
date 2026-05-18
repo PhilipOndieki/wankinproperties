@@ -24,7 +24,7 @@ const agentJsonLd = {
   name: SITE_NAME,
   description:
     'We help Kenyans buy and sell land with confidence. Our team knows the local market, handles transactions transparently, and stands behind every title deed we deliver.',
-  url: 'https://wankinproperties.co.ke/about',
+  url: 'https://wankinproperties.com/about',
   telephone: CONTACT_PHONE_DISPLAY,
   email: CONTACT_EMAIL,
   address: {
