@@ -4,7 +4,7 @@ import React, { useEffect, useRef, useState } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { usePathname } from 'next/navigation';
-import { Phone, Mail, Clock, MapPin, Menu, X, ChevronDown } from 'lucide-react';
+import { Phone, Mail, Clock, MapPin, ChevronDown } from 'lucide-react';
 import { MobileNav } from './mobile-nav';
 import {
   CONTACT_PHONE_DISPLAY,
@@ -214,37 +214,41 @@ export function SiteHeader() {
 
         {/* ── MAIN NAV BAR ── */}
         <div className="flex w-full">
-          {/* Brand panel */}
-          <div className="bg-[#1E2A78] flex-shrink-0">
+
+          {/* ── BRAND PANEL — 96px tall, 80×80 logo, no constraining white box ── */}
+          <div className="bg-white flex-shrink-0">
             <Link
               href="/"
               aria-label="Wankin Properties Limited — home"
-              className="flex items-center gap-3 px-6 lg:px-8 h-[72px] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-inset"
+              className="flex items-center gap-4 px-6 lg:px-8 h-[96px] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-inset"
             >
-              <div className="w-12 h-12 bg-white rounded-xl flex items-center justify-center flex-shrink-0 overflow-hidden">
+              {/* Logo — 80×80, sits directly on navy, no wrapper box */}
+              <div className="relative w-20 h-20 flex-shrink-0">
                 <Image
                   src="/logowankin.png"
-                  alt="Wankin Properties logo"
-                  width={44}
-                  height={44}
-                  className="w-11 h-11 object-contain"
+                  alt="Wankin Properties Limited logo"
+                  fill
+                  className="object-contain"
                   priority
                 />
               </div>
-              <div className="hidden sm:block">
-                <div className="text-white font-display font-bold text-[15px] tracking-wide leading-tight">
-                  WANKIN PROPERTIES
-                </div>
-                <div className="text-blue-300 text-[10px] tracking-[3px] mt-0.5">
-                  LIMITED · KENYA
-                </div>
+
+              {/* Brand text */}
+              <div className="hidden sm:flex flex-col justify-center">
+                <span className="text-wankin-blue-dark font-display font-extrabold text-[16px] tracking-[1.5px] leading-tight uppercase">
+                  Wankin Properties
+                </span>
+                <span className="text-wankin-blue  text-[10px] tracking-[3.5px] mt-1 uppercase">
+                  Limited · Kenya
+                </span>
               </div>
             </Link>
           </div>
 
-          {/* Nav links panel */}
-          <div className="bg-white flex-1 flex items-center justify-between px-4 lg:px-8 border-b border-wankin-gray-200 h-[72px]">
-            {/* Desktop links */}
+          {/* ── NAV LINKS PANEL — matches 96px height ── */}
+          <div className="bg-white flex-1 flex items-center justify-between px-4 lg:px-8 border-b border-wankin-gray-200 h-[96px]">
+
+            {/* Desktop nav links */}
             <nav
               className="hidden lg:flex items-center h-full"
               aria-label="Main navigation"
@@ -276,17 +280,16 @@ export function SiteHeader() {
               )}
             </nav>
 
-            {/* CTA + mobile trigger */}
+            {/* CTA + mobile hamburger */}
             <div className="flex items-center gap-3 ml-auto">
               <Link
                 href="/contact"
-                className="hidden lg:flex items-center gap-2 bg-wankin-red hover:bg-wankin-red-dark text-white text-sm font-bold px-5 py-2.5 rounded-lg transition-colors duration-150 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-wankin-red focus-visible:ring-offset-2"
+                className="hidden lg:flex items-center gap-2 bg-wankin-red hover:bg-wankin-red-dark text-white text-sm font-bold px-6 py-3 rounded-lg transition-colors duration-150 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-wankin-red focus-visible:ring-offset-2 whitespace-nowrap"
               >
-                <Phone className="h-4 w-4" aria-hidden="true" />
+                <Phone className="h-4 w-4 shrink-0" aria-hidden="true" />
                 Request a Property
               </Link>
 
-              {/* Mobile nav trigger */}
               <MobileNav />
             </div>
           </div>
