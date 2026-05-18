@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --wankin-blue: #1E40AF;
+    --wankin-blue-dark: #1E2A78;
+    --wankin-blue-deep: #0F1A4F;
+    --wankin-magenta: #D946A6;
+    --wankin-red: #DC2626;
+    --wankin-red-dark: #B91C1C;
+    --wankin-green: #16A34A;
+    --wankin-cream: #FAF8F3;
+    --wankin-ink: #0A0A0A;
+    --wankin-gray-700: #374151;
+    --wankin-gray-200: #E5E7EB;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply font-sans text-wankin-ink antialiased;
+    background-color: #ffffff;
+  }
+
+  *:focus-visible {
+    @apply outline-none;
+  }
+}
+
+@layer components {
+  .section-container {
+    @apply mx-auto max-w-7xl px-4 sm:px-6 lg:px-8;
+  }
+}
+
+@layer utilities {
+  .font-display {
+    font-family: var(--font-plus-jakarta), system-ui, sans-serif;
+  }
+}

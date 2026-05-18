@@ -1,0 +1,248 @@
+[
+  {
+    "slug": "juja-farm-mwireri",
+    "title": "Juja Farm Mwireri",
+    "location": "Juja Farm, Kiambu County",
+    "category": "juja-farm",
+    "plotSize": "50 x 100",
+    "price": 750000,
+    "status": "selling-fast",
+    "shortDescription": "Prime residential plots in Juja Farm with ready title deeds and easy road access.",
+    "longDescription": "Juja Farm Mwireri sits 2 km from Juja town, along a tarmac access road with murram finishing to the plots. The land is surveyed, titles are ready, and you can begin construction the day you sign.\n\nThis area is growing fast. New estates, schools, and shopping centres are coming up within 3 km. Water from the county supply is reachable and electricity poles are already in.\n\nWe offer flexible payment plans. Pay a 30% deposit and spread the balance over 6 months. Site visits are free every weekend.",
+    "features": [
+      "Ready title deeds",
+      "Tarmac access road",
+      "Water and electricity available",
+      "Surveyed and beaconed",
+      "Flexible payment plans",
+      "Free site visits",
+      "5 minutes from Juja town",
+      "Close to schools and shopping"
+    ],
+    "images": [
+      {
+        "src": "https://placehold.co/800x500/1E40AF/FAF8F3?text=Juja+Farm+Mwireri",
+        "alt": "Aerial view of Juja Farm Mwireri plots with green surroundings"
+      },
+      {
+        "src": "https://placehold.co/800x500/1E2A78/FAF8F3?text=Access+Road",
+        "alt": "Tarmac access road leading to Juja Farm Mwireri plots"
+      },
+      {
+        "src": "https://placehold.co/800x500/16A34A/FAF8F3?text=Plot+View",
+        "alt": "Corner plot at Juja Farm Mwireri showing survey beacons"
+      }
+    ],
+    "coordinates": {
+      "lat": -1.0974,
+      "lng": 37.0144
+    },
+    "isFeatured": true,
+    "createdAt": "2024-11-01T08:00:00Z"
+  },
+  {
+    "slug": "juja-farm-athi",
+    "title": "Juja Farm Athi",
+    "location": "Juja Farm Athi River, Kiambu County",
+    "category": "juja-farm-athi",
+    "plotSize": "50 x 100",
+    "price": 850000,
+    "status": "available",
+    "shortDescription": "Affordable plots along the Athi corridor with full infrastructure and all amenities nearby.",
+    "longDescription": "Juja Farm Athi is positioned along the Nairobi-Thika corridor, giving you fast access to Nairobi's eastern suburbs, JKIA, and the Athi River industrial zone. Commuting is simple from here.\n\nThe plots are flat, well-drained, and surrounded by established estates. All utilities are at the plot boundary. The area has active construction, meaning your investment grows from day one.\n\nTitle deeds are ready. We handle the transfer process from agreement to handover, no extra costs.",
+    "features": [
+      "Ready title deeds",
+      "Flat and well-drained land",
+      "All utilities at plot boundary",
+      "Near Nairobi-Thika Highway",
+      "Surrounded by established estates",
+      "Easy transfer process",
+      "Free site visits",
+      "No hidden charges"
+    ],
+    "images": [
+      {
+        "src": "https://placehold.co/800x500/1E40AF/FAF8F3?text=Juja+Farm+Athi",
+        "alt": "Open plots at Juja Farm Athi with flat terrain and clear sky"
+      },
+      {
+        "src": "https://placehold.co/800x500/374151/FAF8F3?text=Utilities",
+        "alt": "Electricity and water infrastructure at Juja Farm Athi plots"
+      },
+      {
+        "src": "https://placehold.co/800x500/1E2A78/FAF8F3?text=Neighbourhood",
+        "alt": "Established neighbourhood surrounding the Juja Farm Athi development"
+      }
+    ],
+    "coordinates": {
+      "lat": -1.1200,
+      "lng": 37.0350
+    },
+    "isFeatured": true,
+    "createdAt": "2024-11-05T08:00:00Z"
+  },
+  {
+    "slug": "mwalimu-farm",
+    "title": "Mwalimu Farm",
+    "location": "Mwalimu Farm, Juja, Kiambu County",
+    "category": "mwalimu-farm",
+    "plotSize": "50 x 100",
+    "price": 950000,
+    "status": "available",
+    "shortDescription": "Serene residential plots in Mwalimu Farm with title deeds ready and investor-friendly pricing.",
+    "longDescription": "Mwalimu Farm is one of Juja's most established residential schemes. The scheme has a long history of successful sales and happy homeowners. Roads, lighting, and drainage are all in place.\n\nPlots here hold their value. The proximity to Jomo Kenyatta University (JKIA is 25 minutes away) keeps demand high from academics, students, and young professionals. Rental yields in this area are attractive.\n\nPayment plans are available. Visit the site on any Saturday and speak directly with our team on the ground.",
+    "features": [
+      "Ready title deeds",
+      "Internal roads and drainage",
+      "Street lighting installed",
+      "Near Jomo Kenyatta University",
+      "High rental demand area",
+      "Payment plans available",
+      "Free Saturday site visits",
+      "Established residential scheme"
+    ],
+    "images": [
+      {
+        "src": "https://placehold.co/800x500/16A34A/FAF8F3?text=Mwalimu+Farm",
+        "alt": "Mwalimu Farm residential plots with paved internal roads"
+      },
+      {
+        "src": "https://placehold.co/800x500/1E40AF/FAF8F3?text=Road+Network",
+        "alt": "Internal road network at Mwalimu Farm scheme"
+      },
+      {
+        "src": "https://placehold.co/800x500/1E2A78/FAF8F3?text=Surroundings",
+        "alt": "Aerial view of Mwalimu Farm showing proximity to university and amenities"
+      }
+    ],
+    "coordinates": {
+      "lat": -1.0800,
+      "lng": 37.0050
+    },
+    "isFeatured": true,
+    "createdAt": "2024-11-10T08:00:00Z"
+  },
+  {
+    "slug": "makuyu-mananja",
+    "title": "Makuyu Mananja",
+    "location": "Makuyu, Murang'a County",
+    "category": "makuyu-mananja",
+    "plotSize": "50 x 100",
+    "price": 650000,
+    "status": "selling-fast",
+    "shortDescription": "Budget-friendly plots in Makuyu with fertile land, clean air, and title deeds ready to transfer.",
+    "longDescription": "Makuyu Mananja gives you more land for less money than Nairobi outskirts. The area is known for agricultural productivity and a clean, quiet environment. It is 90 minutes from Nairobi on the Thika-Makuyu road.\n\nThese are legitimate titled plots. Documents are verified by a licensed advocate before any payment is made. No middlemen, no complication.\n\nMakuyu is growing with new infrastructure from the county. It is a smart long-term bet and a great option for those who want space to farm or build a home away from the city.",
+    "features": [
+      "Ready title deeds",
+      "Advocate-verified documents",
+      "Fertile, agricultural-grade soil",
+      "90 minutes from Nairobi",
+      "Clean water sources nearby",
+      "No middlemen",
+      "Free site visits",
+      "Ideal for farming or residential"
+    ],
+    "images": [
+      {
+        "src": "https://placehold.co/800x500/16A34A/0F1A4F?text=Makuyu+Mananja",
+        "alt": "Green fertile land at Makuyu Mananja with expansive views"
+      },
+      {
+        "src": "https://placehold.co/800x500/1E40AF/FAF8F3?text=Plot+Beacons",
+        "alt": "Survey beacons marking plot boundaries at Makuyu Mananja"
+      },
+      {
+        "src": "https://placehold.co/800x500/374151/FAF8F3?text=Access+Road",
+        "alt": "All-weather access road at Makuyu Mananja development"
+      }
+    ],
+    "coordinates": {
+      "lat": -0.9200,
+      "lng": 37.1600
+    },
+    "isFeatured": false,
+    "createdAt": "2024-11-15T08:00:00Z"
+  },
+  {
+    "slug": "gongoni-malindi",
+    "title": "Gongoni Malindi",
+    "location": "Gongoni, Malindi, Kilifi County",
+    "category": "gongoni-malindi",
+    "plotSize": "50 x 100",
+    "price": 1150000,
+    "status": "available",
+    "shortDescription": "Coastal plots in Gongoni Malindi with title deeds ready, near the beach and tourist corridor.",
+    "longDescription": "Gongoni sits 12 km south of Malindi town, in the heart of Kenya's fastest-growing coastal real estate corridor. Plots here are being bought by both locals and diaspora investors for vacation homes, Airbnb developments, and long-term investment.\n\nThe Indian Ocean is 3 km from these plots. The area is served by a tarmac road, Malindi Airport is 20 minutes away, and Watamu is a short drive south. Coastal hospitality infrastructure is booming around you.\n\nTitle deeds are clean and ready. We can facilitate virtual site visits via video call for diaspora buyers. Bank financing is available through our partner institutions.",
+    "features": [
+      "Ready title deeds",
+      "3 km from the Indian Ocean",
+      "Near Malindi Airport",
+      "Tarmac road access",
+      "Virtual site visits available",
+      "Bank financing supported",
+      "High Airbnb and rental potential",
+      "Diaspora-friendly purchase process"
+    ],
+    "images": [
+      {
+        "src": "https://placehold.co/800x500/0F1A4F/FAF8F3?text=Gongoni+Malindi",
+        "alt": "Coastal plots at Gongoni Malindi with ocean visible in background"
+      },
+      {
+        "src": "https://placehold.co/800x500/1E40AF/FAF8F3?text=Coastal+View",
+        "alt": "Scenic coastal view from Gongoni Malindi plots"
+      },
+      {
+        "src": "https://placehold.co/800x500/D946A6/FAF8F3?text=Malindi+Town",
+        "alt": "Malindi town centre showing proximity to the Gongoni development"
+      }
+    ],
+    "coordinates": {
+      "lat": -3.2800,
+      "lng": 40.1100
+    },
+    "isFeatured": true,
+    "createdAt": "2024-11-20T08:00:00Z"
+  },
+  {
+    "slug": "ruai-corridor",
+    "title": "Ruai Corridor",
+    "location": "Ruai, Nairobi County",
+    "category": "juja-farm",
+    "plotSize": "50 x 100",
+    "price": 1050000,
+    "status": "available",
+    "shortDescription": "Strategic plots in the Ruai corridor with road frontage and title deeds, minutes from Nairobi CBD.",
+    "longDescription": "The Ruai corridor is one of Nairobi's last affordable frontiers. These plots sit along the Eastern Bypass access roads, giving residents fast connectivity to the CBD, Kasarani, and JKIA. The area is transitioning from sparse residential to a full urban zone.\n\nPlots come with survey documents and ready title deeds. Electricity and water are both connected along the road. Matatu routes pass the access road every 15 minutes.\n\nWith the Eastern Bypass upgrades underway, prices here will not stay at this level. This is the time to buy.",
+    "features": [
+      "Ready title deeds",
+      "Eastern Bypass road access",
+      "Electricity and water connected",
+      "Matatu routes at access road",
+      "Near Nairobi CBD and JKIA",
+      "Surveyed and beaconed",
+      "Free site visits",
+      "High appreciation potential"
+    ],
+    "images": [
+      {
+        "src": "https://placehold.co/800x500/1E2A78/FAF8F3?text=Ruai+Corridor",
+        "alt": "Ruai Corridor plots with Eastern Bypass visible in the distance"
+      },
+      {
+        "src": "https://placehold.co/800x500/1E40AF/FAF8F3?text=Road+Access",
+        "alt": "Road frontage plots at the Ruai Corridor development"
+      },
+      {
+        "src": "https://placehold.co/800x500/374151/FAF8F3?text=Infrastructure",
+        "alt": "Power lines and water pipes installed along the Ruai Corridor access road"
+      }
+    ],
+    "coordinates": {
+      "lat": -1.2800,
+      "lng": 36.9600
+    },
+    "isFeatured": false,
+    "createdAt": "2024-12-01T08:00:00Z"
+  }
+]
